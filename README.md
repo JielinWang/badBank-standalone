@@ -33,6 +33,8 @@ node index.js
 
 <img width="1440" alt="Screenshot 2022-10-31 at 7 14 18 PM" src="https://user-images.githubusercontent.com/94776104/199132697-ba1a481b-c95a-4820-becc-4cb2c9bc7c9a.png">
 
+<img width="1440" alt="Setting Up An Express Data Abstraction Layer (DAL) With MongoDB" src="https://user-images.githubusercontent.com/94776104/199136791-250f2ca0-1dce-43e8-98a4-b771dfe2477a.png">
+
 
 ### Technologies and libraries used:
 
@@ -41,6 +43,7 @@ node index.js
 - Express
 - Node JS
 - Mongo DB
+- Studio 3T
 
 
 ### Functionalities available:
